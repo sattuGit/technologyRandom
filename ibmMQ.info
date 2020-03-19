@@ -1,0 +1,11 @@
+runmqsc QM_Name
+display ql(*) curdepth
+
+https://github.com/dsuch/pymqi/tree/master/code
+
+
+https://www.ibm.com/developerworks/websphere/library/techarticles/0708_salkosuo/0708_salkosuo.html
+https://www.ibm.com/developerworks/websphere/library/techarticles/0708_salkosuo/0708_salkosuo.html
+https://www.capitalware.com/mq_code_cplusplus.html
+https://bencane.com/2013/04/22/websphere-mq-cheat-sheet-for-system-administrators/
+http://mqseries.net/phpBB/viewtopic.php?t=22571&sid=50574425f2fb4d898a14d223497a846f
